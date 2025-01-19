@@ -3,5 +3,5 @@
 # Loadstring
 
 ```lua
-loadstring(game:HttpGet("Nothing Here Now LOL"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzryxx/Project-ZX/refs/heads/main/ProjectZX.luau"))()
 ```
